@@ -1,5 +1,5 @@
 public class Task {
-    private static int lastId = 0;
+    private static int lastId = 1;
     private final int id;
     private final String description;
     private String status;
